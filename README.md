@@ -1,2 +1,3 @@
 # Hangman_App
-Mobile Hangman Game
+Basic Mobile Hangman Game
+- Developed in beginner mobile app course using MIT App Inventor 2
